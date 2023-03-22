@@ -1,0 +1,27 @@
+.input {
+    height: 1.6rem;
+    border: 1px solid #ccc;    
+}
+.label {
+    font-weight: bold;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+.inputError {
+    border: red solid 5px;
+}
+
+.button {
+    width: 6rem;
+    height: 1.6rem;
+    color: white;
+    background-color: rgb(54, 0, 54);
+    border: none;
+    font-size: .9rem;
+    cursor: pointer;
+}

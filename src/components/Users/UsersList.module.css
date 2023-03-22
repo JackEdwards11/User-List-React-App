@@ -1,0 +1,11 @@
+.userList {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    padding-top: 20px;
+}
+
+
+.hide {
+    display: none;
+}

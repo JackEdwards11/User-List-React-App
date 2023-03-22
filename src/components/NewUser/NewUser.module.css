@@ -1,0 +1,9 @@
+.newUser {
+    background-color: whitesmoke;
+    width: 45rem;
+    /* height: 18rem; */
+    
+    margin: 3rem auto;
+    border-radius: 12px;
+    max-width: 95%;
+}

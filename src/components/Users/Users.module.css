@@ -1,0 +1,9 @@
+.users {
+    background-color: whitesmoke;
+    width: 45rem;
+    height: auto;
+    
+    margin: 3rem auto;
+    border-radius: 12px;
+    max-width: 95%;
+}
